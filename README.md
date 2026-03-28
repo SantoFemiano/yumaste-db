@@ -88,8 +88,9 @@ Lo schema è composto da **19 tabelle** che coprono l'intera logica di business 
 
 Yumaste è un progetto multi-repo. Di seguito le altre repository collegate:
 
-> *(Aggiungi qui i link alle altre repo: backend Spring Boot, frontend, app iOS, ecc.)*
-
+>Link al backend: https://github.com/SantoFemiano/yumaste-backend
+>Link al front-end (client): https://github.com/SantoFemiano/yumaste-shop
+>Link al front-end (admin): https://github.com/SantoFemiano/yumasteadminshop
 ---
 
 ## 🛠️ Tecnologie
@@ -100,7 +101,12 @@ Yumaste è un progetto multi-repo. Di seguito le altre repository collegate:
 
 ---
 
-## 👤 Autore
+## 👤 Autori
 
-**Santo Femiano**  
-[GitHub @SantoFemiano](https://github.com/SantoFemiano)
+**Santo Femiano**
+- GitHub: [@SantoFemiano](https://github.com/SantoFemiano)
+  
+**Salvatore Santaniello**
+- GitHub: [@salvsant](https://github.com/salvsant)
+---
+
